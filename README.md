@@ -15,10 +15,11 @@ https://www.reddit.com/r/SwitchHacks/
 https://ismyswitchpatched.com/  
 
 ## Firmwares
-https://darthsternie.net/switch-firmwares/  
+https://darthsternie.net/switch-firmwares/ 
 
 ## Packs
 ~~https://github.com/THZoria/AtmoPack-Vanilla~~  
+https://codeberg.org/Zoria/AtmoPack-Vanilla/releases/  
 
 ## Inject payloads
 https://github.com/eliboa/TegraRcmGUI  

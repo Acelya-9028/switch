@@ -36,6 +36,6 @@ https://ayakalounge.me/threads/sys-patch-a-sigpatches-like-files-for-running-bac
 
 ## Games
 https://www.reddit.com/r/Piracy/wiki/megathread/  
+https://nxbrew.com/  
 https://ygg.re/  
 https://www.sharewood.tv/  
-https://nxbrew.com/  

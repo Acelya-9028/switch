@@ -4,7 +4,8 @@ https://nintendo-wii.logic-sunrise.com/
 # Games
 https://nxbrew.com/  
 https://www.switch-torrents.com/  
-https://yggtorrent.qa/  
+https://ygg.re/  
+https://www.sharewood.tv/  
 https://www.reddit.com/r/Piracy/wiki/megathread/  
 
 # Firmwares
@@ -17,7 +18,7 @@ https://nh-server.github.io/switch-guide/
 # Help
 https://www.reddit.com/r/SwitchPirates/  
 https://www.reddit.com/r/SwitchHacks/  
-https://darksoftware.net/forums/switch-nsp-xci-discussion.104/  
+https://ayakalounge.me/forums/switch-discussions.51/  
 
 # Patched?
 https://ismyswitchpatched.com/  

@@ -1,37 +1,41 @@
-# News
+# Fuck N*
+
+## News
 https://nintendo-wii.logic-sunrise.com/  
 
-# Games
-https://nxbrew.com/  
-https://ygg.re/  
-https://www.sharewood.tv/  
-https://www.reddit.com/r/Piracy/wiki/megathread/  
-
-# Firmwares
-https://darthsternie.net/switch-firmwares/  
-
-# Guides
+## Guides
 https://rentry.co/SwitchHackingIsEasy  
 https://nh-server.github.io/switch-guide/  
 
-# Help
+## Help
 https://www.reddit.com/r/SwitchPirates/  
 https://www.reddit.com/r/SwitchHacks/  
-https://ayakalounge.me/forums/switch-discussions.51/  
 
-# Patched?
+## Patched?
 https://ismyswitchpatched.com/  
 
-# Pack
+## Firmwares
+https://darthsternie.net/switch-firmwares/  
+
+## Pack
 ~~https://github.com/THZoria/AtmoPack-Vanilla~~  
 
-# Inject payloads
+## Inject payloads
 https://github.com/eliboa/TegraRcmGUI  
 
-# Tools
+## Tools
 https://github.com/Atmosphere-NX/Atmosphere  
 https://github.com/CTCaer/hekate  
 https://github.com/rashevskyv/dbi  
 https://github.com/HamletDuFromage/aio-switch-updater  
 https://github.com/WerWolv/EdiZon  
 ~~https://github.com/ITotalJustice/sys-patch~~  
+
+## Patches
+https://ayakalounge.me/threads/sys-patch-a-sigpatches-like-files-for-running-backup-games-gets-surprising-update-behind-the-scenes.49241/  
+
+## Games
+https://www.reddit.com/r/Piracy/wiki/megathread/  
+https://ygg.re/  
+https://www.sharewood.tv/  
+https://nxbrew.com/  

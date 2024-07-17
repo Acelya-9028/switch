@@ -3,7 +3,6 @@ https://nintendo-wii.logic-sunrise.com/
 
 # Games
 https://nxbrew.com/  
-https://www.switch-torrents.com/  
 https://ygg.re/  
 https://www.sharewood.tv/  
 https://www.reddit.com/r/Piracy/wiki/megathread/  
@@ -24,7 +23,7 @@ https://ayakalounge.me/forums/switch-discussions.51/
 https://ismyswitchpatched.com/  
 
 # Pack
-https://github.com/THZoria/AtmoPack-Vanilla  
+~~https://github.com/THZoria/AtmoPack-Vanilla~~  
 
 # Inject payloads
 https://github.com/eliboa/TegraRcmGUI  
@@ -35,4 +34,4 @@ https://github.com/CTCaer/hekate
 https://github.com/rashevskyv/dbi  
 https://github.com/HamletDuFromage/aio-switch-updater  
 https://github.com/WerWolv/EdiZon  
-https://github.com/ITotalJustice/sys-patch  
+~~https://github.com/ITotalJustice/sys-patch~~  

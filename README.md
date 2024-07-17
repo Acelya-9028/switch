@@ -7,7 +7,7 @@ https://nintendo-wii.logic-sunrise.com/
 https://rentry.co/SwitchHackingIsEasy  
 https://nh-server.github.io/switch-guide/  
 
-## Help
+## Helps
 https://www.reddit.com/r/SwitchPirates/  
 https://www.reddit.com/r/SwitchHacks/  
 
@@ -17,7 +17,7 @@ https://ismyswitchpatched.com/
 ## Firmwares
 https://darthsternie.net/switch-firmwares/  
 
-## Pack
+## Packs
 ~~https://github.com/THZoria/AtmoPack-Vanilla~~  
 
 ## Inject payloads
